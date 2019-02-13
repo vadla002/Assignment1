@@ -5,6 +5,9 @@
  * 
  * To compile, run makefile by entering "make"
  *
+ *Shirisha Vadlamudi
+ *Peter Kemper
+ *
  * Operating System Concepts - 10th Edition
  * Copyright John Wiley & Sons - 2018
  */
